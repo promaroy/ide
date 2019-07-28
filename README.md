@@ -1,5 +1,5 @@
 # Coding Blocks IDE  
-Coding Blocks IDE is an online IDE which supports compliation of multiple programming languages. 
+Coding Blocks IDE is an online IDE which supports compliation of multiple programming languages like C++,C,Java,etc. 
 
 ## Deployment
 
